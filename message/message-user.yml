@@ -1,0 +1,3 @@
+USET_NOT_EXITS:
+  code: 10000
+  messgae: 用户不存在
