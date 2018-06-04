@@ -1,0 +1,6 @@
+zuul:
+  routes:
+    user:
+      serviceId: beautiful-user-application
+      path: /user/**
+      stripPrefix: false
