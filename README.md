@@ -1,1 +1,1 @@
-# beautiful-config-centerxx
+# beautiful-config-center
