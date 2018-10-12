@@ -1,1 +1,2 @@
 # beautiful-config-center
+-_-
