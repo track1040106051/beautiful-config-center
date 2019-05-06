@@ -3,4 +3,4 @@ USET_NOT_EXITS:
   messgae: 用户不存在
 USET_NOT_EXITS1:
   code: 100001
-  messgae: 用户不存在1
+  messgae: 用户不存在3
