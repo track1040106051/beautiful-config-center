@@ -1,2 +1,2 @@
 # beautiful-config-center
-我测试下合并的问题4
+我测试下合并的问题5
